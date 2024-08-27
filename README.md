@@ -39,7 +39,7 @@ anetwork — это веб-приложение для управления ие
 - База данных: PostgreSQL 10+
 
  ### Установка и запуск проекта
-- Клонируйте репозиторий с проектом:  **git clone https://github.com/<ваш-логин>/anetwork.git**
+- Клонируйте репозиторий с проектом:  **git clone https://github.com/AleksandrZaec/anetwork.git**
 - Создайте и активируйте виртуальное окружение: **python -m venv venv** | **source venv/bin/activate  # Для Windows: venv\Scripts\activate**
 - Установите зависимости из requirements.txt: **pip install -r requirements.txt**
 - Создайте базу данных и примените миграции: **python manage.py migrate**
